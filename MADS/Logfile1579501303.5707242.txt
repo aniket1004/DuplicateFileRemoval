@@ -1,0 +1,10 @@
+Duplicate files are :
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folder\C0146T0 - Copy.JPG
+
+
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folder\abc\b - Copy - Copy.txt
+
+
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folder\abc\pqr\b - Copy - Copy.txt
+
+

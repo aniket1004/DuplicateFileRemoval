@@ -1,0 +1,10 @@
+Duplicate files are :
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folders\image2.JPG
+
+
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folders\abc\xyz.txt
+
+
+C:\Users\Aniket\Desktop\DuplicateFileRemoval\Folders\abc\pqr\stu.txt
+
+

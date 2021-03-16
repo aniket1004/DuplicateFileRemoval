@@ -4,6 +4,7 @@ from hashfile import *;
 from MailSender import *;
 from tkinter import *;
 
+
 def DuplicateFileRemoval(path,mid,starttime):
 	dire=os.path.abspath("MADS");
 	if os.path.isdir(dire)==False:
